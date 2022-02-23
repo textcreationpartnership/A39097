@@ -1,0 +1,901 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An extraordinary collection of paintings, and several other curiosities. By the best masters. Will be sold by auction, on Tuesday the 20th of this instant January, 1690/91. at three of the clock afternoon, in the Auction-Office in the west-end of the Royal Exchange, and so to continue from day to day till all be sold which will be exposed to view from Thursday before, till the time of sale. Catalogues whereof are to be had at the said office.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39097</idno>
+            <idno type="STC">Wing E3919</idno>
+            <idno type="STC">ESTC R214609</idno>
+            <idno type="EEBO-CITATION">99826723</idno>
+            <idno type="PROQUEST">99826723</idno>
+            <idno type="VID">31128</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31128)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1829:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An extraordinary collection of paintings, and several other curiosities. By the best masters. Will be sold by auction, on Tuesday the 20th of this instant January, 1690/91. at three of the clock afternoon, in the Auction-Office in the west-end of the Royal Exchange, and so to continue from day to day till all be sold which will be exposed to view from Thursday before, till the time of sale. Catalogues whereof are to be had at the said office.</title>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31128:1"/>
+            <pb facs="tcp:31128:1" rendition="simple:additions"/>
+            <p>An Extraordinary COLLECTION OF PAINTINGS, And ſeveral Other CURIOSITIES.</p>
+            <p>By the beſt MASTERS.</p>
+            <p>Will be Sold by AUCTION, on Tueſday the 20th of this Inſtant <hi>January,</hi> 1690/91. at Three of the Clock Afternoon, in the <hi>A<g ref="char:V">Ʋ</g>CTION-OFFICE</hi> in the Weſt-End of the Royal <hi>Exchange,</hi> and ſo to continue from day to day till all be Sold: Which will be Expoſed to view from Thurſday before, till the time of Sale.</p>
+            <p>
+               <hi>Catalogues whereof are to be had at the ſaid Office.</hi>
+            </p>
+         </div>
+         <div type="conditions">
+            <pb facs="tcp:31128:2"/>
+            <head>The Conditions of SALE.</head>
+            <p>THE highest Bidder is to be deem'd the Buyer.</p>
+            <p>But if two (or more) ſhall Claim any Lot, then it ſhall be put up again.</p>
+            <p>The Buyer is to pay for and take away what Pictures, <hi>&amp;c.</hi> He or She ſhall Buy within Five dayes after Bought.</p>
+            <p>Every Perſon Buying is deſired to give his Name and place of abode, and if defired, to pay down a fourth part of the value of what ſhall be bought, or elſe to be put up again.</p>
+            <p>And for the Satisfaction of the Company preſent, it is en<g ref="char:EOLhyphen"/>gaged that no proprietor of any Painting, <hi>&amp;c.</hi> now expoſed ſhall bid for his own Goods.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue_of_paintings_and_curiosities">
+            <pb n="3" facs="tcp:31128:2"/>
+            <head>A COLLECTION OF PAINTINGS, And ſeveral other CURIOSITIES, <hi>&amp;c.</hi>
+            </head>
+            <list>
+               <item>1 THree old pcs very well done</item>
+               <item>2 The Lawyers Croft</item>
+               <item>3 a Woman and a Satyr</item>
+               <item>4 a Landskip with a Water-fall</item>
+               <item>5 a ſmall Landskip and Fire piece in one lot</item>
+               <item>6 a Landskip well painted</item>
+               <item>7 King Charles II.</item>
+               <item>8 a Stag after Hondius</item>
+               <item>9 a pc of Cattel by Moy</item>
+               <item>10 Aeneas landing at Carthage</item>
+               <item>11 a pleaſant Landskip</item>
+               <item>12 Beauty and Time by a great Mr.</item>
+               <item>13 Madam Laſzellier, the French Kings Miſtreſs.</item>
+               <item>14 Q. Elizabeth finely painted</item>
+               <item>15 David and Abigal well painted</item>
+               <item>16 a fine pc of Fruit and Flowers by Verelſt</item>
+               <item>17 a Vanity well painted</item>
+               <item>18 Our Saviours laſt Supper</item>
+               <item>19 The 4 Seaſons by Caſtels, in 4 pcs</item>
+               <item>20 a Landskip by Brent</item>
+               <item>21 K. William in ſmall, on Copper, well done</item>
+               <item>22 an orig. Ship pc by a great Mr.</item>
+               <item>23 a Landskip</item>
+               <item>24 a Droll by a Dutch Mr.</item>
+               <item>25 a Landskip by Attanelt</item>
+               <item>26 a Burgermaſters head by Mervelt</item>
+               <item>27 The Cockolds Revenge</item>
+               <item>28 a Shepard and Shepardeſs</item>
+               <pb n="4" facs="tcp:31128:3"/>
+               <item>29 a hunting of Lyons</item>
+               <item>30 a Landskip with a Mill</item>
+               <item>31 a Sea-ſtorm by Vandeeſt</item>
+               <item>32 Two ſmall Landskips in one lot</item>
+               <item>33 a Bawdy-Houſe by a Dutch Mr.</item>
+               <item>34 a ſmall pc of ſtill Life</item>
+               <item>35 a pc of Friars by Hemskirk</item>
+               <item>36 K. James the Second</item>
+               <item>37 King Charles II. after Lilly</item>
+               <item>38 Adam and Eve, an orig. well painted</item>
+               <item>39 a fine Ship pc by Vandervelden</item>
+               <item>40 a Quakers head by Hemskirk</item>
+               <item>41 a ſmall Sea pc by Vandervelden</item>
+               <item>42 St. Auguſtine and our Saviour on Copper by Genero</item>
+               <item>43 The Hiſtory of Queen <hi>Dido,</hi> an orig.</item>
+               <item>44 a Merry-making by Hemskirk finely painted</item>
+               <item>45 a hunting of Tygers</item>
+               <item>46 St. Lawr. on the Grid-Iron, ſuppoſed to be Spronger</item>
+               <item>47 Tarquin and Lucretia finely done</item>
+               <item>48 Three Doggs finely painted</item>
+               <item>49 a pc of two heads thought to be of Raphell</item>
+               <item>50 a Sea-ſtorm by Vandervelden</item>
+               <item>51 a pc of ſtill Life with a Lobſter</item>
+               <item>52 Two Boys at Cards well done</item>
+               <item>53 a Landskip ſaid by Roeſtraten</item>
+               <item>54 a bunch of Fruit on Copper by a good hand</item>
+               <item>55 a ſmall Landskip, an orig. well done by a good hand</item>
+               <item>56 a head an orig. of Juſtin Egremont</item>
+               <item>57 an Italian pc of fiſh well painted</item>
+               <item>58 orig. Landskip of Water-low with fine Figures</item>
+               <item>59 Joſeph and Mary going to Aegypt</item>
+               <item>60 a Flower pc by Verelſt</item>
+               <item>61 a vanity by a Dutch Mr. finely finiſhed</item>
+               <item>62 Our Saviour and the V. Mary an orig. finely finiſhed</item>
+               <item>63 a Man by a good Mr</item>
+               <item>64 2 ſmall Landskips in one lott</item>
+               <item>65 Friars Carouſing an orig of Old Hemskirk</item>
+               <item>66 an orig. head of Calvin finely painted</item>
+               <item>67 4 Seaſons by Caſtels in one lot</item>
+               <item>68 a Landskip with Cows</item>
+               <item>69 Pandoro in ſmall</item>
+               <item>70 a large Cuſtom-Houſe by Vandervelden</item>
+               <item>71 K. Charles the Second in a Gold Frame</item>
+               <item>72 a Jacoſe pc by Old Hemskirk</item>
+               <item>73 a Landskip</item>
+               <item>74 Lucretia very fine</item>
+               <item>75 Titians Miſtreſs finely done</item>
+               <item>76 Plenty and Peace by Goltius</item>
+               <item>77 a ſmall Battle of Wake</item>
+               <item>78 a Partridge hanging. an orig. of Simon Verelſt</item>
+               <pb n="5" facs="tcp:31128:3"/>
+               <item>79 a Fruit pc well done</item>
+               <item>80 Lazarus rais'd ſuppos'd by Holbeen</item>
+               <item>81 The Virgin Mary and St John by Houſman</item>
+               <item>82 a Carpet finely painted by Marſs</item>
+               <item>83 a Turkiſh Houſe finely painted</item>
+               <item>84 Sodom and Gomorroh by old Hemskirk</item>
+               <item>85 an orig. Fruit a rarity</item>
+               <item>86 a ſmall Landskip</item>
+               <item>87 a hunting of Lyons</item>
+               <item>88 The Rape of Proſopine by Pluto</item>
+               <item>89 Cupit and Venus well done</item>
+               <item>90 Proſpective-Glaſs very</item>
+               <item>91 The Nativity of our Saviour finely done</item>
+               <item>92 an extraordinary fine German Cheek Gun</item>
+               <item>93 a Landskip by a Dutch Mr.</item>
+               <item>94 a Chymmift finely finiſhed ditto</item>
+               <item>95 a Magdelain ditto</item>
+               <item>96 a Fruit pc with Muſmellons well painted</item>
+               <item>97 a Boy playing on a Getter</item>
+               <item>98 a Landskip well painted</item>
+               <item>99 a Fruit pc on board by a good hand</item>
+               <item>100 an origi Water-fall by a great Mr. finely finiſhed</item>
+               <item>101 a pc of Boars by Roeſtraten</item>
+               <item>102 a Merriment by old Hemskirk</item>
+               <item>103 a Flower pc by Verelſt</item>
+               <item>104 The Judgment of Paris by Rubens after the orig.</item>
+               <item>105 a Landskip with a Ruine</item>
+               <item>106 Our Saviour Triumphing over Death</item>
+               <item>107 a Boy playing on a Getter</item>
+               <item>108 Jaſon fighting for the Golden Fleece by a great Mr.</item>
+               <item>109 Venus whipping Cupit</item>
+               <item>110 a Chyrurgeon dreſſing his Patient</item>
+               <item>111 a large Ship pc by Vandervelden</item>
+               <item>112 the K. land from <hi>Carrickfergus</hi> an orig of Vanderveld.</item>
+               <item>113 a Dog by Hondius</item>
+               <item>114 a Landskip of Variety by a Flandrian</item>
+               <item>115 The Miracle of our Saviour well done</item>
+               <item>116 an Italian pc of Sampſon and Dalilah</item>
+               <item>117 a Landskip with Figures</item>
+               <item>118 a pc of Fiſh</item>
+               <item>119 a Chriſtmas Night</item>
+               <item>120 a Green Tree finely painted</item>
+               <item>121 a ſmall pc of ſtill Life</item>
+               <item>122 a Mary Magdalen by Braimer</item>
+               <item>123 a Sea pc after Salemaker</item>
+               <item>124 a Landskip of Loaten</item>
+               <item>125 Our Saviour on the Croſs finely done</item>
+               <item>126 a Landskip well painted</item>
+               <item>127 K. William and Q. Mary in Oval Frames.</item>
+               <item>128 St. Katherine meditating on a Book</item>
+               <pb n="6" facs="tcp:31128:4" rendition="simple:additions"/>
+               <item>129 a Sea pc by Vandervelden</item>
+               <item>130 ditto by Salemaker</item>
+               <item>131 Venus kiſſing Cupit</item>
+               <item>132 a pc of Birds by Jong</item>
+               <item>133 The Duke of York half length in a Gold Frame</item>
+               <item>134 Leopards and Satyrs</item>
+               <item>135 a Landskip on Board</item>
+               <item>136 Card-players by a Dutch Mr.</item>
+               <item>137 Our Saviour Crowned with Thorns</item>
+               <item>138 a pc of Flowers finely painted</item>
+               <item>139 Sennackerib well painted</item>
+               <item>140 Meda killing her Father by an Italian Mr.</item>
+               <item>141 a Carnaval by a Dutch Mr. well done</item>
+               <item>142 2 ſmall Landskips in one lot</item>
+               <item>143 a pc of ſtill Life well painted</item>
+               <item>144 a Landskip well painted</item>
+               <item>145 The Salutation of the Virgin Mary</item>
+               <item>146 an Italian Sea-ſtorm well painted</item>
+               <item>147 a Stag hnnting</item>
+               <item>148 a Sea ſtorm by Vandeeſt</item>
+               <item>149 a Fruit pc by Deſiple of Bougdan</item>
+               <item>150 a Dog and Swan on Copper finely done</item>
+               <item>151 a Landskip with Buck-hunting well painted</item>
+               <item>152 The Virgin Mary ditto</item>
+               <item>153 a ſmall Fruit pc ditto</item>
+               <item>154 a Winter pc ditto</item>
+               <item>155 a ſmall Fruit pc ditto</item>
+               <item>156 Daniel in the Lyons Denn</item>
+               <item>157 Sports of Venus in a fine Carved Frame</item>
+               <item>158 a pair of Sconces well Lacquer'd</item>
+               <item>159 a Landskip</item>
+               <item>160 Our Saviour and Fontius Pilate by Albert Dura</item>
+               <item>161 The Dutcheſs of Maxarines head by a good Mr.</item>
+               <item>162 a Hare and Dog to the Life</item>
+               <item>163 a Devout Senator ofter Titian</item>
+               <item>164 Suſannah and the two Elders</item>
+               <item>165 a Woman fleeing a Satyr by an Italian</item>
+               <item>166 Chriſt taken from the Croſs by Brockhurſt</item>
+               <item>167 Venus and Adonis</item>
+               <item>168 Collonel Scot to the life</item>
+               <item>169 a Woman making Pancakes by Breda</item>
+               <item>170 a Landskip well painted</item>
+               <item>171 a Landskip with a Thunder-Clap</item>
+               <item>172 a Fire pc and Landskip in one lot</item>
+               <item>173 Venus uncovering Cupit</item>
+               <item>174 a Landskip with Cattle and a Bridge</item>
+               <item>175 Flora finely painted</item>
+               <item>176 K. James the II. in Wax-work, in a Box</item>
+               <item>177 K. Charles II. in Wax-work, in a Box</item>
+               <item>178 a fine Landskip, an orig. of Hondius finely finiſhed</item>
+               <pb n="7" facs="tcp:31128:4" rendition="simple:additions"/>
+               <item>179 K. Will. and Q. Marp in one los</item>
+               <item>180 a Lady playing on a Lute</item>
+               <item>181 The Duke of Monmouth by a good hand</item>
+               <item>182 Hagar and the Angel, a large pc</item>
+               <item>183 a Curious head by Vandyke</item>
+               <item>184 a large pc of the Goddeſs Diana</item>
+               <item>185 The Port of Plymouth by Vandervelden</item>
+               <item>186 a Sea Triumph by Digrole</item>
+               <item>187 a Dutch Droll by Vanhoop</item>
+               <item>188 a ſmall Fruit pc well painted</item>
+               <item>189 a Landskip by Romana</item>
+               <item>190 Our Saviours Birth told to the Shepherds</item>
+               <item>191 Cleopatra well painted</item>
+               <item>192 a Lady by Cornelius Johnſon</item>
+               <item>193 The Temptation of St. Anthony</item>
+               <item>194 a pc of Fruit full of Figures by a good Mr.</item>
+               <item>195 K. Will and Q. Mrry in one lot</item>
+               <item>196 a Landskip by a Dutch Mr.</item>
+               <item>197 a Looking-Glaſs in a Wallnut-Tree Frame</item>
+               <item>198 Two ſmall Landskips in one lot</item>
+               <item>199 a ſtill Life finely dons by a Durch Mr.</item>
+               <item>200 a ſmall bunch of Fruit well done</item>
+               <item>201 The Woman of Samaria</item>
+               <item>202 a large Tomb pc finely painted</item>
+               <item>203 2 pcs orig. of ſtill Life finely done</item>
+               <item>204 2 ſmall Landskips on Copper in a lot</item>
+               <item>205 a Battel finely finiſhed by a Durch Mr.</item>
+               <item>206 2 ſmall Landskips in one lot</item>
+               <item>207 an Italian Landskip</item>
+               <item>208 a fine Landskip</item>
+               <item>209 a Cabinet of fine Wood</item>
+               <item>210 a pc of Moon-ſhine by Moy</item>
+               <item>211 Joſeph ſold to the Arabian Merchants</item>
+               <item>212 a Magdalen by a Dutch Mr. finely painted</item>
+               <item>213 Mary Magdalen well done</item>
+               <item>214 a Spaniſh Lady finely painted</item>
+               <item>215 David and Abigail finely finiſhed</item>
+               <item>216 a large Venus in the Ciouds</item>
+               <item>217 a fire pc well painted</item>
+               <item>218 a ſtill life of Gold and Silver</item>
+               <item>219 a landskip with figures by Colonie</item>
+               <item>220 a Satyr and a Child</item>
+               <item>221 a landskip finely done, <hi>Loaten</hi>
+               </item>
+               <item>222 Suſannah ane the 2 Elders, an orig. of the Dutch Mr.</item>
+               <item>223 a Proſpective-glaſs very fine</item>
+               <item>224 12 Roman Emperours well done in one lot</item>
+               <item>225 The Hiſtory of <hi>Jupiter</hi> and <hi>Io</hi>
+               </item>
+               <item>226 a fine Pendulum Watch goes 8 days</item>
+               <item>227 2 landskips in Copper in one lot</item>
+               <item>228 a pair of lackquer'd Sconces</item>
+               <pb n="8" facs="tcp:31128:5"/>
+               <item>229 St. Martin an orig. by Potter</item>
+               <item>230 Jane Shoar by a very good hand</item>
+               <item>231 a pc thought to be of Raphel with 2 heads</item>
+               <item>232 a Cheek Gun</item>
+               <item>233 a pc of Ruins</item>
+               <item>234 an orig. landskip of Brugel finely done</item>
+               <item>235 an orig. head of Holbain</item>
+               <item>236 King Will. and Q. Mary in one lot</item>
+               <item>237 Fortune by an Italian Mr.</item>
+               <item>238 a Head by Anthony Morus</item>
+               <item>239 a pc of Satyrs</item>
+               <item>240 Venus and Cupit</item>
+               <item>241 a Hare finely finiſhed by a Dutch Mr.</item>
+               <item>242 a landskip by an Italian Mr.</item>
+               <item>243 a Woman ſinging by Theodora Romboute</item>
+               <item>244 a landskip with Coridon and Amarillis</item>
+               <item>245 a Winter pc and Fire pc on board in one lot</item>
+               <item>246 Solomon receiving the Queen of Sheba</item>
+               <item>247 a large Muſick pc</item>
+               <item>248 a Country Wedding finely done</item>
+               <item>249 an orig. pc of Birds by Greffeir in a right gold frame</item>
+               <item>250 The 3 wiſe men by a good Mr.</item>
+               <item>251 a Lucretia an orig. by an Italian moſt finely done</item>
+               <item>252 Mars, Venus and Cupit by a good hand</item>
+               <item>253 Blanket Fare</item>
+               <item>254 a Dutch Pc of ſtill life with Eggs well painted</item>
+               <item>255 The flight into Aegypt</item>
+               <item>256 a Deer-hunting ſuppoſed by Derick</item>
+               <item>257 The V. Mary and our Saviour, an orig. extraordinary</item>
+               <item>258 The Holy Family</item>
+               <item>259 a landskip with Eliſha</item>
+               <item>260 Prince Henry's head ſuppos'd by Vandyke</item>
+               <item>261 Our Saviour going to Aegypt, an orig. moſt fine</item>
+               <item>262 a Bear with her Whelps and Dogs</item>
+               <item>263 a Winter pc a ſmall landskip in one lot</item>
+               <item>264 Hunting the Lyon</item>
+               <item>265 a Grace pc by a Dutch Mr.</item>
+               <item>266 a Madone and Angels</item>
+               <item>267 K. Will. and Q Mary in Oval Frames</item>
+               <item>268 2 Boys at Cards</item>
+               <item>269 a Landskip by Vanuliger</item>
+               <item>270 2 Merry Dutch Men</item>
+               <item>271 a Sea pc orig. by Vandervelden</item>
+               <item>272 a Froſt pc well done</item>
+               <item>273 a fire pc by Vanderpool</item>
+               <item>274 a Confeſſion by Hemskirk</item>
+               <item>275 a fine Landskip</item>
+               <item>276 Jupiter and Leda</item>
+               <item>277 a Landskip with a Ruine</item>
+               <item>278 a fine Vanity by Old <hi>Peirce</hi>
+               </item>
+               <pb n="9" facs="tcp:31128:5"/>
+               <item>279 a pc of Fryars by Hemskirk</item>
+               <item>280 an old Woman by Hill with a Man and a Child</item>
+               <item>281 a Pendulum Watch with a Chain goes 8 days, good Work</item>
+               <item>282 a Noble Mans head well painted</item>
+               <item>283 Lucretia after Titian</item>
+               <item>284 The Reform of Acteon</item>
+               <item>285 K. Charles II. well painted</item>
+               <item>286 a China pc</item>
+               <item>287 a pc of Swans</item>
+               <item>288 a hunting by Vanhoſen</item>
+               <item>289 a Shock Dogg</item>
+               <item>290 a Landskip with Horſes</item>
+               <item>291 a Sea Port well done</item>
+               <item>292 a Winter pc and a Fire pc on Copper</item>
+               <item>293 a large Looking-Glaſs in a very fine Frame</item>
+               <item>294 The Lady Cornelia</item>
+               <item>295 a Monument and Figures by Maſon</item>
+               <item>296 a Lady finely done by Houſeman</item>
+               <item>297 a Banquet of Fruit and Oyſters by Edama</item>
+               <item>298 a hunting a Hare an Orig. of Hondius</item>
+               <item>299 a Turky-work Carpet and Books finely done</item>
+               <item>300 The Prodigal Son</item>
+               <item>301 a large Looking-glaſs in an Italian Frame</item>
+               <item>302 pcs of Fruit in a Gold Frame by Udaman</item>
+               <item>303 K. Charles II. finely painted</item>
+               <item>304 Jupiter and Pemona by a good hand</item>
+               <item>305 4 heads repreſenting the Seaſons</item>
+               <item>306 a Night pc of Robers finely done</item>
+               <item>307 a ſtill Life well done</item>
+               <item>308 a Sea-ſtorm by Wagoner</item>
+               <item>309 a Landskip with a Hare</item>
+               <item>310 a Sea-ſtorm by Vandervelden</item>
+               <item>311 an Old Man on Board, a half length</item>
+               <item>312 a Landskip. the Figures at Blind-mans-buff</item>
+               <item>313 a Sea pc</item>
+               <item>314 The Lady Sandes</item>
+               <item>315 Our Saviour in the Garden by the beſt Brugle</item>
+               <item>316 a Landskip by a good hand</item>
+               <item>317 an Old Woman and a Monkey</item>
+               <item>318 Our Saviour taken from the Croſs</item>
+               <item>319 an Italian Landskip finely painted</item>
+               <item>320 a ſmall pc of raiſing the Deer by Night</item>
+               <item>321 a Satyr and Country-eating on Board</item>
+               <item>322 Cupit with a Dog</item>
+               <item>323 a pair of Sconces</item>
+               <item>324 a ſmall Landskip and Fire pc on Board</item>
+               <item>325 a Lady with 3 Children, by a good Mr.</item>
+               <item>326 K. Charles II.</item>
+               <item>327 an Alabaſter George finely carved</item>
+               <item>328 another of the ſame</item>
+               <pb n="10" facs="tcp:31128:6" rendition="simple:additions"/>
+               <item>329 Two Hiſtory pcs painted on glaſs in one lot</item>
+               <item>330 a Calves Pluck, <hi>&amp;c.</hi> well painted</item>
+               <item>331 a fine diſh of old China</item>
+               <item>332 Our Saviour and the good Samaritan</item>
+               <item>333 a Boys Head rarely painted</item>
+               <item>334 a ſmall head by old Hemskirk in a gold Frame</item>
+               <item>335 Queen Sambras and Cyrus</item>
+               <item>336 a Landskip in a black Frame</item>
+               <item>337 Venus and Cupit in large Oval Frame</item>
+               <item>338 a Head ſuppos'd by Lilly</item>
+               <item>339 Andromeda after Perſius</item>
+               <item>340 The Crowning of the Virgin by Genero</item>
+               <item>341 a pc of Fryars by Hemskirk</item>
+               <item>342 a head repreſenting Prudence, by Bourgignon</item>
+               <item>343 a head by Hemskirk</item>
+               <item>344 Men a ſmoaking, an orig. by old Hemskirk</item>
+               <item>345 a Mary Magdalen finely painted by an Italian</item>
+               <item>346 a Roman Charity, an orig. by Vanude</item>
+               <item>347 a ſmall Old Head</item>
+               <item>348 a ſtill Life by Adama</item>
+               <item>349 a Landskip by Brugle</item>
+               <item>350 a Charity in Oval</item>
+               <item>351 a Love pc by Hemskirk</item>
+               <item>352 The Virgin and our Saviour, an orlg. finely finiſhed</item>
+               <item>353 Mary Magdalen after an Italian</item>
+               <item>354 K. Will. and Q. Mary in one lot</item>
+               <item>355 an orig. Ship pc finely done</item>
+               <item>356 a Merriment by old Hemskirk finely finiſhed</item>
+               <item>357 a Fruit pc very well painted</item>
+               <item>358 a large Turkiſh Town by Vandervelden</item>
+               <item>359 an orig. pc of Fiſh by Robinſon</item>
+               <item>360 Our Saviour breaking Bread finely done</item>
+               <item>361 a Lawyer by Cornelius Johnſon</item>
+               <item>362 a Lyon fighting by Hundius</item>
+               <item>363 a Hermit finely finiſhed</item>
+               <item>364 Venus and Adonis</item>
+               <item>365 a Fruit pc with a Squirrel by Evenbrook finely fin.</item>
+               <item>366 David and Beerſheba finely finiſhed</item>
+               <item>367 a Dutch Market pc</item>
+               <item>368 a Head by Teniers</item>
+               <item>369 a Fire pc and Landskip in 1 lot</item>
+               <item>370 a Sealing pc of the Windſor deſign done by Varioe</item>
+               <item>371 a Landskip with a Ruine</item>
+               <item>372 Abram putting away Hagar</item>
+               <item>373 Brutus and Caeſar</item>
+               <item>374 K. Will. and Q. Mary finely finiſhed</item>
+               <item>375 2 Philoſophers Heads by a good Mr. in one lot</item>
+               <item>376 Two Fools, <hi>&amp;c.</hi>
+               </item>
+               <item>377 King James moſt finely done going to Scotland</item>
+               <item>378 Queen Dowager</item>
+               <pb n="11" facs="tcp:31128:6" rendition="simple:additions"/>
+               <item>379 King Charles II.</item>
+               <item>380 a Noble Man by Beneſt</item>
+               <item>381 a Landskip with a Ruine</item>
+               <item>382 The Virgin and Joſeph moſt finely done</item>
+               <item>383 a Buck-hunting</item>
+               <item>384 St. Katherine receiving the Ring finely finiſhed</item>
+               <item>385 a pc of Confeſſion</item>
+               <item>386 a pc of Walnuts finely done</item>
+               <item>387 a fine Landskip</item>
+               <item>388 a Diſh of right Old China</item>
+               <item>389 a pc of Fiſh finely painted</item>
+               <item>390 a pc of Sheep to the Life by Vantaven</item>
+               <item>391 a Nuſſery pc by Hemskirk</item>
+               <item>392 Tarquin and Lucretia, an orig. by Derick</item>
+               <item>393 an Indian Salt of Silver with Caſtors and Crewitts to be ſold by the Ounce</item>
+               <item>394 a head ſuppoſed to be of Walker</item>
+               <item>395 a Scretore Inlade with Flowers</item>
+               <item>396 an orig. Landskip of Saveruy</item>
+               <item>397 a Landskip of Rocks after Mumpett</item>
+               <item>398 a Huntſman and Hounds ſaid to be by Baſſan</item>
+               <item>399 a fine Landskip</item>
+               <item>400 a pc of Fiſh and a Cat</item>
+               <item>401 a Fruit pc by a great Mr.</item>
+               <item>402 a Sea pc</item>
+               <item>403 Venus and Adonis</item>
+               <item>404 a pleaſant Landskip with a harmony of Birds</item>
+               <item>405 a Flower pc. an orig. of William Verelſt</item>
+               <item>406 a pc of Horſes</item>
+               <item>407 an Indian Cradle of Ebony with Silk Curtains</item>
+               <item>408 an orig. head by Perbius</item>
+               <item>409</item>
+               <item>410 King Charles the Firſt ſuppoſed by Vandyke</item>
+               <item>411 a Bone-Lace-Maker of Hemskirk</item>
+               <item>412 a Rock with Figures by John Vanpetterſon</item>
+               <item>413 a Dutch Duty by Hemskirk</item>
+               <item>414 Tobias and the Angel</item>
+               <item>415 a large pc of our Saviour on the Croſs</item>
+               <item>416 Daniel in the Lyons Denn</item>
+               <item>417 a Winter pc and a Fire pc in one lot</item>
+               <item>418 a pc of Alputie and Alputia</item>
+               <item>419 an Noble Act of Filial Piety well painted</item>
+               <item>420 a Girls head well done</item>
+               <item>421 a Flower-Pot</item>
+               <item>422 a fine Landskip</item>
+               <item>423 Our Saviour in the Temple finely painted</item>
+               <item>424 K. William and Q. Mary in one lot</item>
+               <item>425 a Hunting pc after Hondius</item>
+               <item>426 K. William and Q. Mary in 1 lot</item>
+               <item>427 a Man playing on a Flute</item>
+               <pb n="12" facs="tcp:31128:7" rendition="simple:additions"/>
+               <item>428 The Dutcheſs of Cleaveland finely done</item>
+               <item>429 a Barrel of Oyſters by Adama</item>
+               <item>430 The King landing at Carrickfergus</item>
+               <item>431 a Landsdip after Vandeſt</item>
+               <item>432 a Sea pc on Copper well painted</item>
+               <item>433 a pc of Ruine</item>
+               <item>434 K. Will. and Q. Mary in Oval Frames</item>
+               <item>435 an Engliſh General by Cornelius Johnſon</item>
+               <item>436 a large pc of our Saviour before Pilate</item>
+               <item>437 a pc of ſtill Life</item>
+               <item>438 K. Charles II. and Q. Dowager in a lot</item>
+               <item>439 a Leopard hunting</item>
+               <item>440 a Dog by Hondius</item>
+               <item>441 an orig. Sea pc by a Dutch Mr.</item>
+               <item>442 a pc of Flowers by Verelſt</item>
+               <item>443 a pc of Baſſis and Philemon</item>
+               <item>444 a Drunkard by Oſtade in an Ebony Frame</item>
+               <item>445 a pc repreſenting Hell</item>
+               <item>446 a Bacchus and Venus well painted</item>
+               <item>447 a head ſuppos'd by Anthony Mora</item>
+               <item>438 a large proſpect of Barbadoes by Skinner</item>
+               <item>449 2 ſmall Landskips in 1 lot</item>
+               <item>450 a fighting pc by old Hemskirk</item>
+               <item>451 a Water Fowl</item>
+               <item>452 an Alablaſter George</item>
+               <item>453 a Ruin by an Italian Mr.</item>
+               <item>454 a fine proſpect</item>
+               <item>455 a pc of hunting the wild Boar</item>
+               <item>456 a Landskip</item>
+               <item>457 Abraham and the Angels</item>
+               <item>458 St Katherine by Bourgignon</item>
+               <item>459 a Winter pc and Landskip in 1 lot</item>
+               <item>460 St. Peters denial on board by a great Mr.</item>
+               <item>461 a pair of Sconces Carved in Wood</item>
+               <item>462 The late Queen Mary</item>
+               <item>463 an Italian Muſick pc</item>
+               <item>464 a ſmiling Fool finely painted by John Vanhoop</item>
+               <item>465 a dead Corps by Brugle</item>
+               <item>466 Cupit and Sikeca by Derrick</item>
+               <item>467 a men lighting a pipe, an orig. finely painted</item>
+               <item>468 a large pc of Cookery</item>
+               <item>469 a Boys head by a great Mr.</item>
+               <item>470 Two Monkeys</item>
+               <item>471 Venus and Adonis finely painted</item>
+               <item>472 a Night pc of Card-players on board</item>
+               <item>473 a Droll by old Hemskirk</item>
+               <item>474 a Hermet by Hemskirk</item>
+               <item>475 a pc of ſtill Life by Robinſon</item>
+               <item>476 a Fruit pc</item>
+               <item>477 a Lap-Dog well done</item>
+               <item>478 a ſmall Oval by Hemskirk</item>
+               <pb n="13" facs="tcp:31128:7" rendition="simple:additions"/>
+               <item>479 a Stag hunting</item>
+               <item>480 a pair of fine Sconces</item>
+               <item>481 a Landskip and Fire pc in 1 lot</item>
+               <item>482 a Womans head by Rooſe</item>
+               <item>483 a Night pc of Beggars well done</item>
+               <item>484 a flower pc</item>
+               <item>485 Lot and his 2 Daughters by Derrick</item>
+               <item>486 a Cheſt of Drawers Inlade with Flowers</item>
+               <item>487 Adam and Eve curiouſly done by Vanpauten</item>
+               <item>488 a Landskip with Buildings by a good Mr.</item>
+               <item>489 a Japan Trunk right India</item>
+               <item>490 a fine Landskip</item>
+               <item>491 Joſeph giving our Saviour Chriſt, a fine orig.</item>
+               <item>492 a diſh of right old China</item>
+               <item>493 a Landskip with a Bridge</item>
+               <item>494 King Charles II.</item>
+               <item>495 a Noble Mans head by old Bean</item>
+               <item>496 Diana well done</item>
+               <item>497 K. Will. and Q. Mary in one lot</item>
+               <item>498 Venus and Cupit by Lutterel on Copper in an Ebo<g ref="char:EOLhyphen"/>ny Frame</item>
+               <item>499 a Grace pc an orig. of old Hemskirk moſt finely done</item>
+               <item>500 a pc of Cattel by Moy</item>
+               <item>501 the Birth of our Saviour</item>
+               <item>502 a Fortune Teller finely painted</item>
+               <item>503 a Landskip</item>
+               <item>504 a Sea pc with a Fire Ship by Vandervelden, the Fi<g ref="char:EOLhyphen"/>gures finely done</item>
+               <item>505 a pc of ſtill Life by Adama</item>
+               <item>506 a Japan Box</item>
+               <item>507 a Porphrey Morter formerly the Counteſs of Staff.</item>
+               <item>508 Hagar and the Angel on Copper</item>
+               <item>509 The Queen of England by old Bean</item>
+               <item>510 Our Saviour breaking Bread</item>
+               <item>511 Ceres, <hi>&amp;c.</hi> by Houſeman</item>
+               <item>512 a pair of Japan Gold Buckles by the Ounce</item>
+               <item>513 a Leveret by a good hand</item>
+               <item>514 Youth and Age in Italian Wax-work</item>
+               <item>515 a Landskip well painted</item>
+               <item>516 Joſephs flight into Aegypt</item>
+               <item>517 The Duke of Somerſet by Vanſommers</item>
+               <item>518 a Landskip by Eyebright</item>
+               <item>519 The Virgin and our Saviour after Vandyke</item>
+               <item>520 a ſmall Rock pc curiouſly done by John Vanbees</item>
+               <item>521 a Landskip</item>
+               <item>522 Our Saviours Aſcenſion</item>
+               <item>523 a large pc of Pariſmus and Thisbee by an Italian Mr.</item>
+               <item>524 Our Saviour taken down from the Croſs</item>
+               <item>525 a Drunken Dutchman</item>
+               <item>526 a head of the Counteſs of Deſmond</item>
+               <pb n="14" facs="tcp:31128:8" rendition="simple:additions"/>
+               <item>527 an old head finely done</item>
+               <item>528 K. William and Queen Mary on Copper</item>
+               <item>529 a ſmall Landskip by a good Mr.</item>
+               <item>530 a pc of Fruit by a Diſciple of Bougdon</item>
+               <item>531 Suſannah and the 2 Elders by Rubens</item>
+               <item>532 a Landskip with a Water-fall</item>
+               <item>533 a pc of Fergaſon</item>
+               <item>534 a Piper well painted</item>
+               <item>535 a Landskip and Fire pc in 1 lot</item>
+               <item>536 an Old Woman in a Garden</item>
+               <item>537 Our Saviours Aſcenſion</item>
+               <item>538 a Man filling a Pipe of Tobacco</item>
+               <item>539 The Duke and Dutcheſs of Newcaſtle</item>
+               <item>540 a large pc of Satyrs ſuppoſed by Roſa</item>
+               <item>541 K. Charles in Plaiſter of Paris</item>
+               <item>542 K. James ditto</item>
+               <item>543 The Dutcheſs of Portſmouth</item>
+               <item>544 a flower pc</item>
+               <item>545 a ſleeping Venus finely painted</item>
+               <item>546 an Engliſh General, by Vandyke</item>
+               <item>547 an It alian pc of Old Selands well painted</item>
+               <item>548 a Sea-ſtorm by Vandervelden</item>
+               <item>549 Hagar and Iſhmael finely painted</item>
+               <item>550 a Company of good Fellows by a Dutch Mr.</item>
+               <item>551 2 ſmall Landskips in one lot</item>
+               <item>552 K. Charles II. in Armour by Wotters</item>
+               <item>553 K. James by the ſame hand</item>
+               <item>554 K. William and Duke Schomberg in 1 lot</item>
+               <item>555 a Ship pc by Vandervelden</item>
+               <item>556 a Landskip and Winter-pc in 1 lot</item>
+               <item>557 a ſmall Landskip by a good Mr.</item>
+               <item>558 a large Landskip</item>
+               <item>559 a Flower pc</item>
+               <item>560 The Lord Stafford by Waker</item>
+               <item>561 Oliver Cromwel after Walker</item>
+               <item>562 K. Charles I. after Tintoret</item>
+               <item>563 King William</item>
+               <item>564 2 pcs of ſtill Life or Vanities</item>
+               <item>565 Scotus the Philoſopher</item>
+               <item>566 The ſtory of Perſius by a Dutch Mr.</item>
+               <item>567 a Roman Emperours head by Parbius</item>
+               <item>568 The Dutcheſs of Cleaveland</item>
+               <item>569 Attlas in Wax-work</item>
+               <item>570 a Crab</item>
+               <item>571 a Councillers picture by a good hand</item>
+               <item>572 a Man eating Bacon</item>
+               <item>573 a Lyon fighting with a Bull by Hondius</item>
+               <item>574 Queen Mary</item>
+               <item>575 a ſtill Life</item>
+               <item>576 a Turky-work Carpet by a great Mr.</item>
+               <item>577 a ſmall Landskip in Water-Colours</item>
+               <pb n="15" facs="tcp:31128:8" rendition="simple:additions"/>
+               <item>578 a China-Lacquer'd Punch-Bow I and Tea Table</item>
+               <item>579 a Naked Venus in Wax-work</item>
+               <item>580 a ſmall pc of ſtill Life</item>
+               <item>581 a Landskip</item>
+               <item>582 Belſhazzars Feaſt</item>
+               <item>583 a pc of Vanity well done</item>
+               <item>584 a preſs for Letters</item>
+               <item>585 a large Sea pc well done</item>
+               <item>586 Abraham offering Iſaac by Lamence</item>
+               <item>587 Queen Elizabeth in plaiſter of Paris an orig.</item>
+               <item>588 A Clock</item>
+               <item>589 2 ſmail Landskips on Copper in 1 lot</item>
+               <item>590 St. Sebaſtian in an Oval Frame finely done</item>
+               <item>591 a 6 leav'd Skreen painted on both ſides</item>
+               <item>592 Venus and Adonis</item>
+               <item>593 a Landskip painted on board</item>
+               <item>594 a pc of hunting</item>
+               <item>595 a Country-Houſe by Robinſon</item>
+               <item>596 Offering the 3 Kings</item>
+               <item>597 Venus rideing Mars in plaiſter of Paris</item>
+               <item>598 K. Will. and Q. Mary in Oval</item>
+               <item>599 The King of Poland</item>
+               <item>600 a pair of Sconces</item>
+               <item>601 a pc of Fiſh an orig. of Robinſon</item>
+               <item>602 Jacob and Eſau</item>
+               <item>603 a Battel by Mulliner</item>
+               <item>604 a ſmall Landskip on board with figures</item>
+               <item>605 a Moon-light and Fire pc by a good hand</item>
+               <item>606 a Diſh of right old China</item>
+               <item>607 a curious Landskip the figures by Vanderwitto</item>
+               <item>608 The late <hi>K.</hi> James and Q. Mary in 1 lot</item>
+               <item>609 a Sea pc by Vandervelden</item>
+               <item>610 a ſtill Life on a deal board finely painted</item>
+               <item>611 a Sea pc on Copper well painted</item>
+               <item>612 Neptune</item>
+               <item>613 a Dog after Hondius</item>
+               <item>614 2 Alabaſter Figures in 1 lot</item>
+               <item>615 Two Children</item>
+               <item>616 a pc of Flowers well painted</item>
+               <item>617 a Froſt pc well done by a good Mr.</item>
+               <item>618 a Chair</item>
+               <item>619 a ſmall Vanity finely done</item>
+               <item>620 a Landskip</item>
+               <item>621 a ſmall pc of Fiſh</item>
+               <item>622 a Sea pc by Salemaker</item>
+               <item>623 Oliver Cromwell well painted</item>
+               <item>624 a Buck-hunting</item>
+               <item>625 a pc with Cattel by a German Mr.</item>
+               <item>626 a ſmall pc of Vanity well done</item>
+               <item>627 Two Fellows ſmoaking</item>
+               <pb n="16" facs="tcp:31128:9" rendition="simple:additions"/>
+               <item>628 a ſmall pc of ſtill Life</item>
+               <item>629 a Piper well painted</item>
+               <item>630 Hercules by Burgignion</item>
+               <item>631 a Dutch a Woman half length by Hans Holbin</item>
+               <item>632 a fine Landskip</item>
+               <item>633 King James</item>
+               <item>634 K. William and Q. Mary in one lot</item>
+               <item>635 ditto</item>
+               <item>636 K. William and Queen Mary</item>
+               <item>637 a Skreen painted on both ſides</item>
+               <item>638 2 Alabaſter Figures in one lot</item>
+               <item>639 a Shepherd with Sheep and Goats</item>
+               <item>640 a Landskip by a good hand</item>
+               <item>641 a Landskip well done</item>
+               <item>642 Our Saviours Birth</item>
+               <item>643 a pc of ſtill Lifo</item>
+               <item>644 a Ruins with Rocks by a Dutch Mr.</item>
+               <item>645 a ſtill Life by Robinſon</item>
+               <item>646 a pc of Mackerel</item>
+               <item>647 a Landskip</item>
+               <item>648 a Spaniard playing on Muſick</item>
+               <item>649 a fine old pc well preſerved</item>
+               <item>650 2 Alabaſter Figures in one lot</item>
+               <item>651 a Landskip an orig. of Eyebright</item>
+               <item>652 a fine Landskip</item>
+               <item>653 The Virgin Mary and our Saviour well done</item>
+               <item>654 a Landskip with Rocks</item>
+               <item>655 a Skeetch in 2 Colours</item>
+               <item>656 a Man filling a pipe of Tobacco</item>
+               <item>657 The Lawyers Craft</item>
+               <item>658 a Proſpective-Glaſs very fine</item>
+               <item>659 Our Saviour and the Virg. an orig. of Houſeman</item>
+               <item>660 a pair of fine Lacquer'd Sconces</item>
+               <item>661 a Diſh of right old China</item>
+               <item>662 a fine Landskip</item>
+               <item>663 David and Uriah's Wife by Rombola</item>
+               <item>664 Cerſa going to the Temple by a great Mr.</item>
+               <item>665 a pc of Fowling</item>
+               <item>666 Boars drinking by Hemskirk</item>
+               <item>667 Sefinus by Vandyke</item>
+               <item>668</item>
+               <item>669 a Water-fall well done by a Dutch Mr.</item>
+               <item>670 a Landskip by a good hand</item>
+               <item>671 a Night pc by old Boon</item>
+               <item>672 a fine Landskip</item>
+               <item>673 a Baccanalia by Berry</item>
+               <item>674 K. W. and Q. Mary</item>
+               <item>675 a ſmall pc of Flowers</item>
+               <item>676 a Perſpective-Glaſs</item>
+               <item>677 2 Alabaſter Figures in 1 lot</item>
+               <pb n="17" facs="tcp:31128:9" rendition="simple:additions"/>
+               <item>678 a large pc of Pemona and Jupiter, by a great Mr.</item>
+               <item>679 a Landskip with a ſtorm of Wind</item>
+               <item>680 a pc of ſtill Life</item>
+               <item>681 a Shock Dogg neatly painted</item>
+               <item>682 Mackeril and Bacon</item>
+               <item>683</item>
+               <item>684 Chriſtmas orig. done above 100 years ſince by a great Maſter</item>
+               <item>685 a Confeſſion</item>
+               <item>686 a Landskip well done</item>
+               <item>687</item>
+               <item>688 Doctor Fauſtus</item>
+               <item>689 2 pcs of Beaſts in 1 lot</item>
+               <item>690 a Landskip by a good hand</item>
+               <item>691 a Cabinet Inlaid with Ivory and Tortoiſe-ſhell</item>
+               <item>692 a Woman reading in a Book very fine</item>
+               <item>693 2 ſmall Landskips in 1 lot</item>
+               <item>694 The King Hiruſalem</item>
+               <item>695 3 Landskips in 1 lot</item>
+               <item>696 a fine Barbary Horſe as big as the Life, by a great Maſter</item>
+               <item>697 2 Alabaſter Figures in one lot</item>
+               <item>698 The Virgin going to the Temple</item>
+               <item>699 a Flower pc</item>
+               <item>700 a Converſation, an orig. by a great Mr.</item>
+               <item>701 a head by Sir Peter Lilly</item>
+               <item>702 a fine Landskip</item>
+               <item>703 St. Katherine</item>
+               <item>704 2 Cherubins heads</item>
+               <item>705 a large Looking-Glaſs with Table and Stands</item>
+               <item>706 a fine Landskip</item>
+               <item>707 K. Will. and Q. Mary</item>
+               <item>708 5 large pcs of fine old Tapeſtry</item>
+               <item>709 2 Alabaſter Figures in 1 lot</item>
+               <item>710</item>
+               <item>711 a Monkey eating Bacon</item>
+               <item>712 a Feaſt after Rubens</item>
+               <item>713 a large Winter pc</item>
+               <item>714 Salmon and Oyſters by Vanhanker</item>
+               <item>715 an old pc a Landskip, a right Original</item>
+               <item>716 a Sea-ſtorm finely painted on Copper</item>
+               <item>717 a fine Landskip</item>
+               <item>718 Cupit and Venus</item>
+               <item>719 a Landskip with a Houſe</item>
+               <item>720 Young Hemskirks head by his own hand</item>
+               <item>721 a Shepherd and Shepherdeſs</item>
+               <item>722 a fine pc of Diana by Lamence</item>
+               <item>723 a Froſt pc with Fryars, an original</item>
+               <item>724 Our Saviour and the 3 Kings</item>
+               <item>725 a Fruit pc by Bougdon finely finiſhed</item>
+               <pb n="18" facs="tcp:31128:10"/>
+               <item>726 a fine Landskip</item>
+               <item>727 a Landskip</item>
+               <item>728 Venus a right orig. in a Landskip</item>
+               <item>729 a fine Landskip</item>
+               <item>730 a Sea pc finely painted on Copper</item>
+               <item>731 K. Will. and Q. Mary in one lot</item>
+               <item>732 Hercules killing the Hidra</item>
+               <item>733 K. Will. and Q. Mary</item>
+               <item>734 a Mans head painted on board, an orig.</item>
+               <item>735 a pc of Fiſh</item>
+               <item>736 a large Landskip by a Dutch Mr.</item>
+               <item>737 2 pcs of ſtill life finely finiſhed</item>
+               <item>738 a Hermit finely done in a Square Frame</item>
+               <item>739 a Battel of Vanſpan an orig.</item>
+               <item>740 a Lucretia finely painted</item>
+               <item>741 a neat pc of Diana in the Water</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31128:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
